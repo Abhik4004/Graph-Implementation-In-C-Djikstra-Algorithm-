@@ -1,0 +1,3 @@
+This is DSA project in C based on graph implementation in C
+In this project custom header file is created for modularity of code compile the header file first and then compile main file
+DFS calculation BFS calculation Matrix printing for showing edge and Shortest Path using Djikstra Algorithm is used 
